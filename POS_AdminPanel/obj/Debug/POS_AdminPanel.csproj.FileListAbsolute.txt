@@ -1,0 +1,150 @@
+c:\users\talha\onedrive\documents\visual studio 2015\Projects\POS_AdminPanel\POS_AdminPanel\bin\roslyn\csc.exe
+c:\users\talha\onedrive\documents\visual studio 2015\Projects\POS_AdminPanel\POS_AdminPanel\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\talha\onedrive\documents\visual studio 2015\Projects\POS_AdminPanel\POS_AdminPanel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\talha\onedrive\documents\visual studio 2015\Projects\POS_AdminPanel\POS_AdminPanel\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\talha\onedrive\documents\visual studio 2015\Projects\POS_AdminPanel\POS_AdminPanel\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\talha\onedrive\documents\visual studio 2015\Projects\POS_AdminPanel\POS_AdminPanel\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\talha\onedrive\documents\visual studio 2015\Projects\POS_AdminPanel\POS_AdminPanel\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\talha\onedrive\documents\visual studio 2015\Projects\POS_AdminPanel\POS_AdminPanel\bin\roslyn\System.Collections.Immutable.dll
+c:\users\talha\onedrive\documents\visual studio 2015\Projects\POS_AdminPanel\POS_AdminPanel\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\talha\onedrive\documents\visual studio 2015\Projects\POS_AdminPanel\POS_AdminPanel\bin\roslyn\vbc.exe
+c:\users\talha\onedrive\documents\visual studio 2015\Projects\POS_AdminPanel\POS_AdminPanel\bin\roslyn\VBCSCompiler.exe
+c:\users\talha\onedrive\documents\visual studio 2015\Projects\POS_AdminPanel\POS_AdminPanel\bin\roslyn\VBCSCompiler.exe.config
+c:\users\talha\onedrive\documents\visual studio 2015\Projects\POS_AdminPanel\POS_AdminPanel\bin\POS_AdminPanel.dll.config
+c:\users\talha\onedrive\documents\visual studio 2015\Projects\POS_AdminPanel\POS_AdminPanel\bin\POS_AdminPanel.dll
+c:\users\talha\onedrive\documents\visual studio 2015\Projects\POS_AdminPanel\POS_AdminPanel\bin\POS_AdminPanel.pdb
+c:\users\talha\onedrive\documents\visual studio 2015\Projects\POS_AdminPanel\POS_AdminPanel\bin\Antlr3.Runtime.dll
+c:\users\talha\onedrive\documents\visual studio 2015\Projects\POS_AdminPanel\POS_AdminPanel\bin\EntityFramework.dll
+c:\users\talha\onedrive\documents\visual studio 2015\Projects\POS_AdminPanel\POS_AdminPanel\bin\EntityFramework.SqlServer.dll
+c:\users\talha\onedrive\documents\visual studio 2015\Projects\POS_AdminPanel\POS_AdminPanel\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\talha\onedrive\documents\visual studio 2015\Projects\POS_AdminPanel\POS_AdminPanel\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\talha\onedrive\documents\visual studio 2015\Projects\POS_AdminPanel\POS_AdminPanel\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\talha\onedrive\documents\visual studio 2015\Projects\POS_AdminPanel\POS_AdminPanel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\talha\onedrive\documents\visual studio 2015\Projects\POS_AdminPanel\POS_AdminPanel\bin\Microsoft.Owin.dll
+c:\users\talha\onedrive\documents\visual studio 2015\Projects\POS_AdminPanel\POS_AdminPanel\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\talha\onedrive\documents\visual studio 2015\Projects\POS_AdminPanel\POS_AdminPanel\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\talha\onedrive\documents\visual studio 2015\Projects\POS_AdminPanel\POS_AdminPanel\bin\Microsoft.Owin.Security.dll
+c:\users\talha\onedrive\documents\visual studio 2015\Projects\POS_AdminPanel\POS_AdminPanel\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\talha\onedrive\documents\visual studio 2015\Projects\POS_AdminPanel\POS_AdminPanel\bin\Microsoft.Owin.Security.Google.dll
+c:\users\talha\onedrive\documents\visual studio 2015\Projects\POS_AdminPanel\POS_AdminPanel\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\talha\onedrive\documents\visual studio 2015\Projects\POS_AdminPanel\POS_AdminPanel\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\talha\onedrive\documents\visual studio 2015\Projects\POS_AdminPanel\POS_AdminPanel\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\talha\onedrive\documents\visual studio 2015\Projects\POS_AdminPanel\POS_AdminPanel\bin\Microsoft.Web.Infrastructure.dll
+c:\users\talha\onedrive\documents\visual studio 2015\Projects\POS_AdminPanel\POS_AdminPanel\bin\Newtonsoft.Json.dll
+c:\users\talha\onedrive\documents\visual studio 2015\Projects\POS_AdminPanel\POS_AdminPanel\bin\Owin.dll
+c:\users\talha\onedrive\documents\visual studio 2015\Projects\POS_AdminPanel\POS_AdminPanel\bin\System.Net.Http.Formatting.dll
+c:\users\talha\onedrive\documents\visual studio 2015\Projects\POS_AdminPanel\POS_AdminPanel\bin\System.Web.Helpers.dll
+c:\users\talha\onedrive\documents\visual studio 2015\Projects\POS_AdminPanel\POS_AdminPanel\bin\System.Web.Http.dll
+c:\users\talha\onedrive\documents\visual studio 2015\Projects\POS_AdminPanel\POS_AdminPanel\bin\System.Web.Http.WebHost.dll
+c:\users\talha\onedrive\documents\visual studio 2015\Projects\POS_AdminPanel\POS_AdminPanel\bin\System.Web.Mvc.dll
+c:\users\talha\onedrive\documents\visual studio 2015\Projects\POS_AdminPanel\POS_AdminPanel\bin\System.Web.Optimization.dll
+c:\users\talha\onedrive\documents\visual studio 2015\Projects\POS_AdminPanel\POS_AdminPanel\bin\System.Web.Razor.dll
+c:\users\talha\onedrive\documents\visual studio 2015\Projects\POS_AdminPanel\POS_AdminPanel\bin\System.Web.WebPages.Deployment.dll
+c:\users\talha\onedrive\documents\visual studio 2015\Projects\POS_AdminPanel\POS_AdminPanel\bin\System.Web.WebPages.dll
+c:\users\talha\onedrive\documents\visual studio 2015\Projects\POS_AdminPanel\POS_AdminPanel\bin\System.Web.WebPages.Razor.dll
+c:\users\talha\onedrive\documents\visual studio 2015\Projects\POS_AdminPanel\POS_AdminPanel\bin\WebGrease.dll
+c:\users\talha\onedrive\documents\visual studio 2015\Projects\POS_AdminPanel\POS_AdminPanel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\talha\onedrive\documents\visual studio 2015\Projects\POS_AdminPanel\POS_AdminPanel\bin\System.Web.Helpers.xml
+c:\users\talha\onedrive\documents\visual studio 2015\Projects\POS_AdminPanel\POS_AdminPanel\bin\System.Web.Mvc.xml
+c:\users\talha\onedrive\documents\visual studio 2015\Projects\POS_AdminPanel\POS_AdminPanel\bin\System.Web.Optimization.xml
+c:\users\talha\onedrive\documents\visual studio 2015\Projects\POS_AdminPanel\POS_AdminPanel\bin\System.Web.Razor.xml
+c:\users\talha\onedrive\documents\visual studio 2015\Projects\POS_AdminPanel\POS_AdminPanel\bin\System.Web.WebPages.xml
+c:\users\talha\onedrive\documents\visual studio 2015\Projects\POS_AdminPanel\POS_AdminPanel\bin\System.Web.WebPages.Deployment.xml
+c:\users\talha\onedrive\documents\visual studio 2015\Projects\POS_AdminPanel\POS_AdminPanel\bin\System.Web.WebPages.Razor.xml
+c:\users\talha\onedrive\documents\visual studio 2015\Projects\POS_AdminPanel\POS_AdminPanel\bin\Antlr3.Runtime.pdb
+c:\users\talha\onedrive\documents\visual studio 2015\Projects\POS_AdminPanel\POS_AdminPanel\bin\Newtonsoft.Json.xml
+c:\users\talha\onedrive\documents\visual studio 2015\Projects\POS_AdminPanel\POS_AdminPanel\bin\System.Net.Http.Formatting.xml
+c:\users\talha\onedrive\documents\visual studio 2015\Projects\POS_AdminPanel\POS_AdminPanel\bin\System.Web.Http.xml
+c:\users\talha\onedrive\documents\visual studio 2015\Projects\POS_AdminPanel\POS_AdminPanel\bin\System.Web.Http.WebHost.xml
+c:\users\talha\onedrive\documents\visual studio 2015\Projects\POS_AdminPanel\POS_AdminPanel\bin\EntityFramework.xml
+c:\users\talha\onedrive\documents\visual studio 2015\Projects\POS_AdminPanel\POS_AdminPanel\bin\EntityFramework.SqlServer.xml
+c:\users\talha\onedrive\documents\visual studio 2015\Projects\POS_AdminPanel\POS_AdminPanel\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\talha\onedrive\documents\visual studio 2015\Projects\POS_AdminPanel\POS_AdminPanel\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\talha\onedrive\documents\visual studio 2015\Projects\POS_AdminPanel\POS_AdminPanel\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\talha\onedrive\documents\visual studio 2015\Projects\POS_AdminPanel\POS_AdminPanel\bin\Microsoft.Owin.xml
+c:\users\talha\onedrive\documents\visual studio 2015\Projects\POS_AdminPanel\POS_AdminPanel\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\talha\onedrive\documents\visual studio 2015\Projects\POS_AdminPanel\POS_AdminPanel\bin\Microsoft.Owin.Security.xml
+c:\users\talha\onedrive\documents\visual studio 2015\Projects\POS_AdminPanel\POS_AdminPanel\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\talha\onedrive\documents\visual studio 2015\Projects\POS_AdminPanel\POS_AdminPanel\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\talha\onedrive\documents\visual studio 2015\Projects\POS_AdminPanel\POS_AdminPanel\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\talha\onedrive\documents\visual studio 2015\Projects\POS_AdminPanel\POS_AdminPanel\bin\Microsoft.Owin.Security.Google.xml
+c:\users\talha\onedrive\documents\visual studio 2015\Projects\POS_AdminPanel\POS_AdminPanel\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\talha\onedrive\documents\visual studio 2015\Projects\POS_AdminPanel\POS_AdminPanel\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\talha\onedrive\documents\visual studio 2015\Projects\POS_AdminPanel\POS_AdminPanel\obj\Debug\POS_AdminPanel.csprojResolveAssemblyReference.cache
+c:\users\talha\onedrive\documents\visual studio 2015\Projects\POS_AdminPanel\POS_AdminPanel\obj\Debug\POS_AdminPanel.dll
+c:\users\talha\onedrive\documents\visual studio 2015\Projects\POS_AdminPanel\POS_AdminPanel\obj\Debug\POS_AdminPanel.pdb
+D:\ismail\testing\POS_AdminPanel\POS_AdminPanel\bin\roslyn\csc.exe
+D:\ismail\testing\POS_AdminPanel\POS_AdminPanel\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ismail\testing\POS_AdminPanel\POS_AdminPanel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ismail\testing\POS_AdminPanel\POS_AdminPanel\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ismail\testing\POS_AdminPanel\POS_AdminPanel\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ismail\testing\POS_AdminPanel\POS_AdminPanel\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ismail\testing\POS_AdminPanel\POS_AdminPanel\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ismail\testing\POS_AdminPanel\POS_AdminPanel\bin\roslyn\System.Collections.Immutable.dll
+D:\ismail\testing\POS_AdminPanel\POS_AdminPanel\bin\roslyn\System.Reflection.Metadata.dll
+D:\ismail\testing\POS_AdminPanel\POS_AdminPanel\bin\roslyn\vbc.exe
+D:\ismail\testing\POS_AdminPanel\POS_AdminPanel\bin\roslyn\VBCSCompiler.exe
+D:\ismail\testing\POS_AdminPanel\POS_AdminPanel\bin\roslyn\VBCSCompiler.exe.config
+D:\ismail\testing\POS_AdminPanel\POS_AdminPanel\bin\POS_AdminPanel.dll.config
+D:\ismail\testing\POS_AdminPanel\POS_AdminPanel\bin\POS_AdminPanel.dll
+D:\ismail\testing\POS_AdminPanel\POS_AdminPanel\bin\POS_AdminPanel.pdb
+D:\ismail\testing\POS_AdminPanel\POS_AdminPanel\bin\Antlr3.Runtime.dll
+D:\ismail\testing\POS_AdminPanel\POS_AdminPanel\bin\EntityFramework.dll
+D:\ismail\testing\POS_AdminPanel\POS_AdminPanel\bin\EntityFramework.SqlServer.dll
+D:\ismail\testing\POS_AdminPanel\POS_AdminPanel\bin\Microsoft.AspNet.Identity.Core.dll
+D:\ismail\testing\POS_AdminPanel\POS_AdminPanel\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ismail\testing\POS_AdminPanel\POS_AdminPanel\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\ismail\testing\POS_AdminPanel\POS_AdminPanel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ismail\testing\POS_AdminPanel\POS_AdminPanel\bin\Microsoft.Owin.dll
+D:\ismail\testing\POS_AdminPanel\POS_AdminPanel\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\ismail\testing\POS_AdminPanel\POS_AdminPanel\bin\Microsoft.Owin.Security.Cookies.dll
+D:\ismail\testing\POS_AdminPanel\POS_AdminPanel\bin\Microsoft.Owin.Security.dll
+D:\ismail\testing\POS_AdminPanel\POS_AdminPanel\bin\Microsoft.Owin.Security.Facebook.dll
+D:\ismail\testing\POS_AdminPanel\POS_AdminPanel\bin\Microsoft.Owin.Security.Google.dll
+D:\ismail\testing\POS_AdminPanel\POS_AdminPanel\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\ismail\testing\POS_AdminPanel\POS_AdminPanel\bin\Microsoft.Owin.Security.OAuth.dll
+D:\ismail\testing\POS_AdminPanel\POS_AdminPanel\bin\Microsoft.Owin.Security.Twitter.dll
+D:\ismail\testing\POS_AdminPanel\POS_AdminPanel\bin\Microsoft.Web.Infrastructure.dll
+D:\ismail\testing\POS_AdminPanel\POS_AdminPanel\bin\Newtonsoft.Json.dll
+D:\ismail\testing\POS_AdminPanel\POS_AdminPanel\bin\Owin.dll
+D:\ismail\testing\POS_AdminPanel\POS_AdminPanel\bin\System.Net.Http.Formatting.dll
+D:\ismail\testing\POS_AdminPanel\POS_AdminPanel\bin\System.Web.Helpers.dll
+D:\ismail\testing\POS_AdminPanel\POS_AdminPanel\bin\System.Web.Http.dll
+D:\ismail\testing\POS_AdminPanel\POS_AdminPanel\bin\System.Web.Http.WebHost.dll
+D:\ismail\testing\POS_AdminPanel\POS_AdminPanel\bin\System.Web.Mvc.dll
+D:\ismail\testing\POS_AdminPanel\POS_AdminPanel\bin\System.Web.Optimization.dll
+D:\ismail\testing\POS_AdminPanel\POS_AdminPanel\bin\System.Web.Razor.dll
+D:\ismail\testing\POS_AdminPanel\POS_AdminPanel\bin\System.Web.WebPages.Deployment.dll
+D:\ismail\testing\POS_AdminPanel\POS_AdminPanel\bin\System.Web.WebPages.dll
+D:\ismail\testing\POS_AdminPanel\POS_AdminPanel\bin\System.Web.WebPages.Razor.dll
+D:\ismail\testing\POS_AdminPanel\POS_AdminPanel\bin\WebGrease.dll
+D:\ismail\testing\POS_AdminPanel\POS_AdminPanel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ismail\testing\POS_AdminPanel\POS_AdminPanel\bin\System.Web.Helpers.xml
+D:\ismail\testing\POS_AdminPanel\POS_AdminPanel\bin\System.Web.Mvc.xml
+D:\ismail\testing\POS_AdminPanel\POS_AdminPanel\bin\System.Web.Optimization.xml
+D:\ismail\testing\POS_AdminPanel\POS_AdminPanel\bin\System.Web.Razor.xml
+D:\ismail\testing\POS_AdminPanel\POS_AdminPanel\bin\System.Web.WebPages.xml
+D:\ismail\testing\POS_AdminPanel\POS_AdminPanel\bin\System.Web.WebPages.Deployment.xml
+D:\ismail\testing\POS_AdminPanel\POS_AdminPanel\bin\System.Web.WebPages.Razor.xml
+D:\ismail\testing\POS_AdminPanel\POS_AdminPanel\bin\Antlr3.Runtime.pdb
+D:\ismail\testing\POS_AdminPanel\POS_AdminPanel\bin\Newtonsoft.Json.xml
+D:\ismail\testing\POS_AdminPanel\POS_AdminPanel\bin\System.Net.Http.Formatting.xml
+D:\ismail\testing\POS_AdminPanel\POS_AdminPanel\bin\System.Web.Http.xml
+D:\ismail\testing\POS_AdminPanel\POS_AdminPanel\bin\System.Web.Http.WebHost.xml
+D:\ismail\testing\POS_AdminPanel\POS_AdminPanel\bin\EntityFramework.xml
+D:\ismail\testing\POS_AdminPanel\POS_AdminPanel\bin\EntityFramework.SqlServer.xml
+D:\ismail\testing\POS_AdminPanel\POS_AdminPanel\bin\Microsoft.AspNet.Identity.Core.xml
+D:\ismail\testing\POS_AdminPanel\POS_AdminPanel\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\ismail\testing\POS_AdminPanel\POS_AdminPanel\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ismail\testing\POS_AdminPanel\POS_AdminPanel\bin\Microsoft.Owin.xml
+D:\ismail\testing\POS_AdminPanel\POS_AdminPanel\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\ismail\testing\POS_AdminPanel\POS_AdminPanel\bin\Microsoft.Owin.Security.xml
+D:\ismail\testing\POS_AdminPanel\POS_AdminPanel\bin\Microsoft.Owin.Security.Facebook.xml
+D:\ismail\testing\POS_AdminPanel\POS_AdminPanel\bin\Microsoft.Owin.Security.Cookies.xml
+D:\ismail\testing\POS_AdminPanel\POS_AdminPanel\bin\Microsoft.Owin.Security.OAuth.xml
+D:\ismail\testing\POS_AdminPanel\POS_AdminPanel\bin\Microsoft.Owin.Security.Google.xml
+D:\ismail\testing\POS_AdminPanel\POS_AdminPanel\bin\Microsoft.Owin.Security.Twitter.xml
+D:\ismail\testing\POS_AdminPanel\POS_AdminPanel\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\ismail\testing\POS_AdminPanel\POS_AdminPanel\obj\Debug\POS_AdminPanel.csprojResolveAssemblyReference.cache
+D:\ismail\testing\POS_AdminPanel\POS_AdminPanel\obj\Debug\POS_AdminPanel.dll
+D:\ismail\testing\POS_AdminPanel\POS_AdminPanel\obj\Debug\POS_AdminPanel.pdb
